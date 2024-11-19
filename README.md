@@ -31,16 +31,16 @@ O Synergy é uma solução disruptiva destinada a transformar o setor energétic
 
 ---
 
-### Pasta do Projeto (Drive)
+### Pasta do Projeto [[Drive]]()
 [...]
 
-### Repositório (GitHub)
+### Repositório [[GitHub]](https://github.com/LeonardoSimpldesu/synergy)
+https://github.com/LeonardoSimpldesu/synergy
+
+### Deploy [[???]]()
 [...]
 
-### Deploy (???)
-[...]
-
-### Vídeo Pitch (Youtube/Drive)
+### Vídeo Pitch [[Drive/Youtube]]()
 [...]
 
 ---
