@@ -32,12 +32,16 @@ O Synergy é uma solução disruptiva destinada a transformar o setor energétic
 ---
 
 ## PASTA DO PROJETO (DRIVE)
+[...]
 
 ## REPOSITÒRIO (GITHUB)
+[...]
 
 ## DEPLOY (???)
+[...]
 
 ## VÍDEO PITCH (YOUTUBE/DRIVE)
+[...]
 
 ---
 
