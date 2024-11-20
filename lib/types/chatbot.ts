@@ -16,5 +16,6 @@ export interface ChatbotData {
   data: {
     answer: string;
     options: Record<string, ChatbotOption>;
+    finalDecision: {message: string}
   };
 } 

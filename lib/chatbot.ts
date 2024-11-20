@@ -88,4 +88,8 @@ export class ChatbotManager {
       history: []
     };
   }
+
+  public finalState(): ChatbotData {
+    return this.data;
+  }
 }

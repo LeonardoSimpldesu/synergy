@@ -11,18 +11,18 @@
                     "1": {
                         "id": 1,
                         "question": "Conectar dispositivos IoT (tutorial simplificado)",
-                        "answer": ""
+                        "answer": "Escolha o dispositivo IOT \n  Baixe o aplicativo Sinergy \n Ligue o dispositivo \n Conecte ao Wi-Fi \n Adicione o dispositivo no App \n Faça o teste de conexão."
                     },
                     "2": {
                         "id": 2,
                         "question": "Exibir um exemplo de relatório com sugestões de economia.",
-                        "answer": ""
+                        "answer": "Seu Consumo atual: 500 KWh/mês \n  Sugestões de economia: \n Substituir lampadas incandesentes por LED: economia de até 20% \n Desligar equipamentos em stand-by: redução de 10% \n  Ajustar o termostato do ar condicionado: poupança de 15% \n Economia estimada em: até 45% no consumo mensal."
                     },
                     "3": {
                         "id": 3,
                         "question": "Configurar notificações para alertas sobre consumo em horários de pico.",
-                        "answer": ""
-                    }   
+                        "answer": "Sim para ativar as notificações \n  Não para voltar às opções anteriores."
+                    }
                 }
             },
             "2": {
@@ -33,17 +33,17 @@
                     "1": {
                         "id": 1,
                         "question": "Apresentar o marketplace de créditos de carbono e explicar como funciona.",
-                        "answer": ""
+                        "answer": "Como funciona: Cada crédito representa 1 tonelada de CO₂ compensada. \n Empresas que reduzem emissões vendem créditos; outras compram para neutralizar impactos."
                     },
                     "2": {
                         "id": 2,
                         "question": "Sugerir ações sustentáveis baseadas no perfil do usuário, como transição para energia solar.",
-                        "answer": ""
+                        "answer": "Com base no seu perfil, sugerimos: \n Energia solar: Reduza custos e emissões com painéis fotovoltaicos. \n  Eficiência energética: Troque equipamentos antigos por modelos econômicos. \n Mobilidade sustentável: Opte por transporte público ou veículos elétricos."
                     },
                     "3": {
                         "id": 3,
                         "question": "Criar um plano inicial de impacto ambiental com metas práticas.",
-                        "answer": ""
+                        "answer": "Meta 1: Reduzir o consumo de energia em 15% em 6 meses. \n  Meta 2: Diminuir resíduos plásticos em 30% adotando alternativas reutilizáveis. \n  Meta 3: Neutralizar emissões com o plantio de 50 árvores no ano. \n Simples, prático e eficaz!"
                     }
                 }
             },
@@ -55,17 +55,17 @@
                     "1": {
                         "id": 1,
                         "question": "Exibir recompensas possíveis por completar desafios sustentáveis.",
-                        "answer": ""
+                        "answer": "Desconto na conta de luz: Reduza até 10%. \n Voucher em lojas ecológicas: R$ 50 para compras sustentáveis. \n Certificado digital: Reconhecimento pelo impacto positivo. \n Ganhe cuidando do planeta!"
                     },
                     "2": {
                         "id": 2,
                         "question": "Direcionar para a seção de educação com materiais personalizados (artigos, vídeos, quizzes).",
-                        "answer": ""
+                        "answer": "Explore nossa seção de educação com materiais personalizados: Artigos para se informar. \n Vídeos para aprender de forma prática. \n Quizzes para testar seus conhecimentos. \n Acesse agora e transforme ações em impacto! "
                     },
                     "3": {
                         "id": 3,
                         "question": "Apresentar um desafio inicial (ex.: reduzir 5% do consumo de energia nesta semana).",
-                        "answer": ""
+                        "answer": "Reduza 5% do consumo de energia nesta semana! \n Desligue luzes desnecessárias. \n Ajuste o uso de eletrodomésticos. \n Aproveite mais a luz natural. \n Aceite o desafio e veja o impacto!"
                     }
                 }
             },
@@ -77,44 +77,44 @@
                     "1": {
                         "id": 1,
                         "question": "Solicitar informações básicas (perfil energético, consumo médio, etc.).",
-                        "answer": ""
+                        "answer": "Nos ajude a te conhecer melhor! Por favor informe: \n Seu perfil energético (residencial, comercial, etc.). \n Consumo médio mensal (em kWh). \n Principais equipamentos usados. \n Esses dados nos ajudam a oferecer dicas personalizadas!"
                     },
                     "2": {
                         "id": 2,
                         "question": "Gerar um relatório inicial com estimativas de pegada de carbono e sugestões.",
-                        "answer": ""
+                        "answer": "Com base no seu consumo, estimamos sua pegada de carbono. \n Pegada estimada: 2,5 toneladas de CO₂ por mês. \n Sugestões: \n Reduzir o uso de energia elétrica. \n Investir em fontes renováveis, como energia solar. \n Adotar transporte sustentável. \n Ações simples para reduzir seu impacto!"
                     },
                     "3": {
                         "id": 3,
                         "question": "Sugerir métricas para acompanhamento (ex.: economia de energia, redução de emissões).",
-                        "answer": ""
+                        "answer": "Métricas para Acompanhamento \n Economia de energia: Monitore a redução percentual no consumo mensal. \n Redução de emissões: Calcule a diminuição de CO₂ com ações sustentáveis. \n Uso de recursos: Acompanhe a redução no consumo de água e materiais. \n Acompanhe seu progresso e faça a diferença!"
                     }
                 }
             },
             "5": {
                 "id": 5,
                 "question": "Não tenho certeza, me mostre o que vocês oferecem",
-                "answer": "Sem problemas! Aqui está um resumo do que o Synergy pode fazer por você. Me avise se algo chamar sua atenção!; Podemos te ajudar a: *Buscar e aderir programas de créditos de carbono. *Monitorar e otimizar o consumo energético. *Aprender de forma interativa e gamificada. *Produzir relatórios personalizados de impacto ambiental. *Conexão com uma rede colaborativa de inovação.",
+                "answer": "Sem problemas! Aqui está um resumo do que o Synergy pode fazer por você. Me avise se algo chamar sua atenção! \n Podemos te ajudar a: \n Buscar e aderir programas de créditos de carbono. \n Monitorar e otimizar o consumo energético.  \n Aprender de forma interativa e gamificada.  \n Produzir relatórios personalizados de impacto ambiental. \n Conexão com uma rede colaborativa de inovação.",
                 "options": {
                     "1": {
                         "id": 1,
                         "question": "Começar com Monitoramento de Energia",
-                        "answer": ""
+                        "answer": "Começar com Monitoramento de Energia \n 1 - Escolha um dispositivo de monitoramento (ex.: medidor inteligente). \n 2 - Instale o dispositivo no ponto de consumo de energia (como o quadro de distribuição). \n 3 - Baixe o aplicativo Synergy para vincular ao dispositivo. \n 4 - Conecte ao Wi-Fi e sincronize com o aplicativo Synergy. \n 5 - Acompanhe o consumo em tempo real e identifique padrões de uso. \n Comece a monitorar e tome decisões para reduzir o consumo de energia!"
                     },
                     "2": {
                         "id": 2,
                         "question": "Explorar Créditos de Carbono",
-                        "answer": ""
+                        "answer": "Explorar Créditos de Carbono \n 1 - Pesquise plataformas de compra e venda de créditos de carbono. \n 2 - Compre créditos para compensar suas emissões de CO₂. \n 3 - Venda créditos se sua empresa ou projeto reduzir emissões de forma certificada. \n 4 - Acompanhe o impacto e contribua para a preservação ambiental \n Uma maneira prática de compensar e reduzir sua pegada de carbono!"
                     },
                     "3": {
                         "id": 3,
                         "question": "Gerar Meu Primeiro Relatório",
-                        "answer": ""
+                        "answer": "Gerar Meu Primeiro Relatório \n 1 - Acesse o painel de monitoramento (ex.: aplicativo de energia ou plataforma de sustentabilidade). \n 2 - Selecione o período de análise (diário, mensal, etc.). \n 3 - Escolha as métricas que deseja incluir (ex.: consumo de energia, emissões de CO₂). \n 4 - Clique em Gerar Relatório e visualize os resultados. \n 5 - Baixe ou compartilhe o relatório para análise. \n Agora você tem uma visão clara do seu impacto e consumo!"
                     },
                     "4": {
                         "id": 4,
                         "question": "Aprender Sobre Sustentabilidade",
-                        "answer": ""
+                        "answer": "Aprender Sobre Sustentabilidade \n 1 - Leia artigos sobre práticas sustentáveis no nosso blog. \n 2 - Assista a vídeos educativos sobre redução de emissões e economia de recursos. \n 3 - Participe de quizzes para testar seus conhecimentos sobre o meio ambiente. \n 4 - Aplique o aprendizado no seu dia a dia, adotando hábitos mais verdes. \n Comece agora e faça a diferença!"
                     }
                 }
             }
@@ -123,11 +123,9 @@
             "message": "Agora que definimos seu objetivo, você está pronto para dar o primeiro passo. Lembre-se, o Synergy está aqui para ajudar a transformar seu consumo em impacto positivo. Vamos começar?",
             "options": [
                 {
-                    "icon": "",
                     "message": "Sim, estou pronto!"
                 },
                 {
-                    "icon": "",
                     "message": "Quero revisar as opções novamente."
                 }
             ]

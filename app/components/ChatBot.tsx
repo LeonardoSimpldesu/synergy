@@ -19,15 +19,27 @@ export function ChatBot() {
     }
   };
 
+  console.log(state)
+
   return (
     <div className="container mx-auto flex flex-col items-center justify-center h-screen w-screen gap-16">
-      <div className="">
-        {state.currentAnswer}
+
+      {/* <div className="">
+        {state.currentAnswer.replace(/\n/g, "<br>")}
+      </div> */}
+
+      <div dangerouslySetInnerHTML={{ __html: state.currentAnswer.replace(/\n/g, "<br>") }} />
+
+      <div>
+        {state.history.length === 2 ?
+          <div>
+            {chatbot.finalState().data.finalDecision.message}
+          </div> : <div></div>}
       </div>
-      
+
       <div className="flex flex-col mx-auto gap-4 w-1/2">
         {state.currentOptions.map((option, index) => (
-          <Button 
+          <Button
             key={index}
             onClick={() => handleOptionClick([...state.history, (index + 1).toString()])}
           >
