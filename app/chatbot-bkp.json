@@ -1,0 +1,126 @@
+{
+  "data": {
+      "firstAccess": {
+          "message": "Olá! Sou o assistente do Synergy, aqui para ajudá-lo a alcançar suas metas de sustentabilidade e transformar sua relação com a energia. Antes de começarmos, gostaria de entender melhor suas necessidades. Qual é o seu objetivo principal hoje?"
+      },
+      "questions": [
+          {
+              "id": 1,
+              "icon": "",
+              "question": "Como reduzir o consumo de energia e economizar ?",
+              "answer": "Ótima escolha! Vamos começar ajudando você a monitorar seu consumo de energia e identificar como otimizar. Conecte seus dispositivos à nossa plataforma para uma análise personalizada.",
+              "subQuestions": [
+                  {
+                      "question": "Conectar dispositivos IoT (tutorial simplificado)",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Exibir um exemplo de relatório com sugestões de economia.",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Configurar notificações para alertas sobre consumo em horários de pico.",
+                      "answer": ""
+                  }
+              ]
+          },
+          {
+              "id": 2,
+              "icon": "",
+              "question": "Como contribuir para um futuro mais sustentável ?",
+              "answer": "Incrível! Contribuir para um planeta mais saudável é essencial. Vamos explorar como você pode compensar seu impacto por meio de créditos de carbono e práticas ecológicas.",
+              "subQuestions": [
+                  {
+                      "question": "Apresentar o marketplace de créditos de carbono e explicar como funciona.",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Sugerir ações sustentáveis baseadas no perfil do usuário, como transição para energia solar.",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Criar um plano inicial de impacto ambiental com metas práticas.",
+                      "answer": ""
+                  }
+              ]
+          },
+          {
+              "id": 3,
+              "icon": "",
+              "question": "Aprender sobre energias renováveis e sustentabilidade",
+              "answer": "Educação é a base para a mudança! Vamos explorar conteúdos interativos e gamificados para ajudá-lo a entender mais sobre energia renovável e sustentabilidade.",
+              "subQuestions": [
+                  {
+                      "question": "Exibir recompensas possíveis por completar desafios sustentáveis.",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Direcionar para a seção de educação com materiais personalizados (artigos, vídeos, quizzes).",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Apresentar um desafio inicial (ex.: reduzir 5% do consumo de energia nesta semana).",
+                      "answer": ""
+                  }
+              ]
+          },
+          {
+              "id": 4,
+              "icon": "",
+              "question": "Monitorar e entender meu impacto ambiental",
+              "answer": "Entender o impacto ambiental é o primeiro passo para fazer a diferença. Vamos criar juntos um relatório inicial com dados relevantes.",
+              "subQuestions": [
+                  {
+                      "question": "Solicitar informações básicas (perfil energético, consumo médio, etc.).",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Gerar um relatório inicial com estimativas de pegada de carbono e sugestões.",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Sugerir métricas para acompanhamento (ex.: economia de energia, redução de emissões).",
+                      "answer": ""
+                  }
+              ]
+          },
+          {
+              "id": 5,
+              "icon": "",
+              "question": "Não tenho certeza, me mostre o que vocês oferecem",
+              "answer": "Sem problemas! Aqui está um resumo do que o Synergy pode fazer por você. Me avise se algo chamar sua atenção!; Podemos te ajudar a: *Buscar e aderir programas de créditos de carbono. *Monitorar e otimizar o consumo energético. *Aprender de forma interativa e gamificada. *Produzir relatórios personalizados de impacto ambiental. *Conexão com uma rede colaborativa de inovação.",
+              "subQuestions": [
+                  {
+                      "question": "Começar com Monitoramento de Energia",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Explorar Créditos de Carbono",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Gerar Meu Primeiro Relatório",
+                      "answer": ""
+                  },
+                  {
+                      "question": "Aprender Sobre Sustentabilidade",
+                      "answer": ""
+                  }
+              ]
+          }
+      ],
+      "finalDecision": {
+          "message": "Agora que definimos seu objetivo, você está pronto para dar o primeiro passo. Lembre-se, o Synergy está aqui para ajudar a transformar seu consumo em impacto positivo. Vamos começar?",
+          "options": [
+              {
+                  "icon": "",
+                  "message": "Sim, estou pronto!"
+              },
+              {
+                  "icon": "",
+                  "message": "Quero revisar as opções novamente."
+              }
+          ]
+      }
+  }
+}
