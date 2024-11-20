@@ -212,10 +212,10 @@ function BotMessage({
     <div className='flex justify-start gap-2 mb-4 max-w-[60%]'>
       <Avatar className="h-10 w-10 mr-3">
         <AvatarImage
-          src="/placeholder-avatar.jpg"
-          alt="Suporte Condelivery"
+          src="/bot.png"
+          alt="Synergy"
         />
-        <AvatarFallback>SC</AvatarFallback>
+        <AvatarFallback>SY</AvatarFallback>
       </Avatar>
       <div className="flex flex-col gap-4">
         <div className="rounded-lg p-3 bg-primary text-primary-foreground">
@@ -264,10 +264,10 @@ function UserMessage({ text }: { text: string }) {
   >
     <Avatar className="h-10 w-10 mr-3 bg-gray-700">
       <AvatarImage
-        src="/placeholder-avatar.jpg"
-        alt="Suporte Condelivery"
+        src="/user.jpeg"
+        alt="Usuário"
       />
-      <AvatarFallback >SC</AvatarFallback>
+      <AvatarFallback >U</AvatarFallback>
     </Avatar>
     <div className="flex flex-col gap-4">
       <div
