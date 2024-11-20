@@ -123,9 +123,11 @@
             "message": "Agora que definimos seu objetivo, você está pronto para dar o primeiro passo. Lembre-se, o Synergy está aqui para ajudar a transformar seu consumo em impacto positivo. Vamos começar?",
             "options": [
                 {
+                    "id": 1,
                     "message": "Sim, estou pronto!"
                 },
                 {
+                    "id": 2,
                     "message": "Quero revisar as opções novamente."
                 }
             ]

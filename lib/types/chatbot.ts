@@ -2,8 +2,8 @@ export interface ChatbotOption {
   id: number;
   question: string;
   answer: string;
-  icon?: string;
   options?: Record<string, ChatbotOption>;
+  icon?: string;
 }
 
 export interface ChatbotState {
@@ -16,6 +16,9 @@ export interface ChatbotData {
   data: {
     answer: string;
     options: Record<string, ChatbotOption>;
-    finalDecision: {message: string}
+    finalDecision?: {
+      message: string;
+      options: Array<{ message: string }>;
+    };
   };
 } 

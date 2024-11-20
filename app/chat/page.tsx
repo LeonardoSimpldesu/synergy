@@ -1,8 +1,9 @@
-import { ChatBot } from "../components/ChatBot";
+import ChatBot from '@/components/public/ChatBot'
 
-export default function Chat() {
-
+export default function ChatPage() {
   return (
-    <ChatBot />
+    <div className="h-full">
+      <ChatBot />
+    </div>
   )
 }
